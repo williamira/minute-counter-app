@@ -1,0 +1,42 @@
+body {
+    background-image: url("guitar.jpg");
+    background-size: cover;
+    font-family: 'Helvetica Neue', Roboto, 'Open Sans', 'Segoe UI', BlinkMacSystemFont,  Oxygen, Ubuntu, Cantarell, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: whitesmoke;
+    text-shadow: 0px 0px 8px black;
+    height: 100vh;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+
+button {
+    border: 2px solid #161c1b;
+    padding: 10px 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 15px;
+}
+
+#increment-btn {
+    background: #de910b;
+}
+
+#save-btn {
+    background: #3b8778;
+}
+
